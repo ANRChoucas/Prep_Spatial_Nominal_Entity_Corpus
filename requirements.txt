@@ -1,0 +1,5 @@
+perdido
+lxml
+pandas
+nltk
+jupyter
